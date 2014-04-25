@@ -1,0 +1,24 @@
+{
+  "name": "snare-synth",
+  "version": "1.0.0",
+  "description": "snare drum for baudio",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/substack/snare-synth.git"
+  },
+  "homepage": "https://github.com/substack/snare-synth",
+  "keywords": [
+    "snare",
+    "synth",
+    "baudio",
+    "synthesizer",
+    "drum"
+  ],
+  "author": {
+    "name": "James Halliday",
+    "email": "mail@substack.net",
+    "url": "http://substack.net"
+  },
+  "license": "MIT"
+}
