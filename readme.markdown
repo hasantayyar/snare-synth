@@ -2,6 +2,8 @@
 
 snare drum for [baudio](https://npmjs.org/package/baudio)
 
+[Here's what it sounds like.](http://studio.substack.net/snare?time=1396268517260)
+
 # example
 
 ```
