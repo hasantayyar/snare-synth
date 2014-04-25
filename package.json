@@ -1,6 +1,6 @@
 {
   "name": "snare-synth",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "snare drum for baudio",
   "main": "index.js",
   "repository": {
